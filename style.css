@@ -1,0 +1,27 @@
+body
+{
+    background-color: cornsilk;
+}
+
+h1
+{
+    color:  cornflowerblue;
+    font-family: Cambria, Cochin, Georgia, Times, 'Times New Roman', serif
+}
+
+button
+{
+    background-color: rgb(185, 188, 255);
+    border-radius: 30px;
+    padding: 10px;
+    color: white;
+    border-color: cornsilk;
+    font-family: Cambria, Cochin, Georgia, Times, 'Times New Roman', serif;
+}
+
+p
+{
+    font-family: Cambria, Cochin, Georgia, Times, 'Times New Roman', serif;
+    background-color: rgb(185, 188, 255);
+    color: white;
+}
