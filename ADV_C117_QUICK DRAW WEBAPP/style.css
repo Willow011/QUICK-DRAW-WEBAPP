@@ -1,0 +1,40 @@
+body
+{
+    background-color: cornsilk;
+}
+
+h1
+{
+    color:  cornflowerblue;
+    font-family: Cambria, Cochin, Georgia, Times, 'Times New Roman', serif
+}
+
+button
+{
+    background-color: rgb(185, 188, 255);
+    border-radius: 30px;
+    padding: 10px;
+    color: white;
+    border-color: cornsilk;
+    font-family: Cambria, Cochin, Georgia, Times, 'Times New Roman', serif;
+    size: 10px;
+}
+
+p, span
+{
+    font-family: Cambria, Cochin, Georgia, Times, 'Times New Roman', serif;
+    background-color: rgb(185, 188, 255);
+    color: white;
+}
+
+canvas 
+  {
+    border:5px solid white;
+    border-radius:20px;
+    margin-top:150px;
+    box-shadow:5px 5px 5px grey;
+    box-shadow: 1px 1px 38px #ffffff;
+    animation-name: example;
+    animation-duration: 4s;
+    animation-iteration-count: infinite;
+}
